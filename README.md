@@ -1,2 +1,2 @@
 # ResDog
-Inal year project
+Final year project
